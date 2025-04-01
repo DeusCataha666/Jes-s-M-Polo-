@@ -23,6 +23,6 @@ resources: contiene carpetas donde seran guardadas recursos que se utilizarane e
     fonts: contiene todos las fuentes (tipografia de letras) usadas o por usar en el proyecto
 
 README.md: en este archivo contiene la documentacion del proyecto
-requirements.txt:   
+requirements.txt:    
 
 
